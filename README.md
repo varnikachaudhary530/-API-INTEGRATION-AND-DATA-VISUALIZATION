@@ -103,4 +103,9 @@ The final output is a command-line-based Weather App that is fully functional. I
 
 This task gave me hands-on experience with real-life programming, debugging, and using third-party services. I now feel more confident about taking on larger and more complex projects in the upcoming tasks.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/f7101f26-ad88-4b01-9217-920df59d8339)
+
+
 
